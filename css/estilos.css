@@ -1,0 +1,30 @@
+h1{
+	text-align: center;
+	color: darkgreen
+}
+p{
+	font-family: arial;
+	font-size: 20x
+}
+body {
+	background-color:aquamarine;
+}
+h2 {
+	text-align: center;
+}
+p {
+	text-align: center;
+
+}
+
+.resaltado {
+		color: violet;
+}
+ul {list-style-type: none}
+table, td {
+	align: center;
+	    text-align: center;
+}
+table { width: 1%; padding: 15px; border-style: solid; background-color: orange; text-align: center; }
+td { width: 10%; padding: 10px; border-style: solid; border-collapse: collapse; background-color: violet; text-align: center;  }
+
